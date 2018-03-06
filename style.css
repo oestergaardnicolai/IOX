@@ -1,0 +1,40 @@
+#Frontpage, #QA, #Info, #IOX, #overblik, #Pitch {
+	background-color:
+}
+
+.MenuTable {
+	width: 100%;
+	border-style: double;
+	border-size: 1px;
+}
+
+h1, h2, h3, h4, h5, p, ol, ul, li {
+	color: gray;
+}
+
+.contact p {
+	line-height: 1.4;
+}
+
+#QA{
+
+}
+
+.MenuTable p
+{
+	width: 90px;
+	border-radius: 25px;
+	text-align: center;
+	background-color: #F20403
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.01rem;
+  background-color: #efefef;
+  text-align: center;
+  height: 40px;
+}
