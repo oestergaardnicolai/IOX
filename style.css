@@ -8,10 +8,6 @@
 	border-size: 1px;
 }
 
-h1, h2, h3, h4, h5, p, ol, ul, li {
-	color: gray;
-}
-
 .contact p {
 	line-height: 1.4;
 }
@@ -42,4 +38,28 @@ h1, h2, h3, h4, h5, p, ol, ul, li {
 .space {
 	border-collapse: separate;
 	padding-left: 50%;
+}
+
+#overblik
+{
+	background: url(SoMe.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+#overblik p, ul{
+	color: #F20403;
+}
+
+#Pitch{
+	background: url(SoMePitch.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-opacity: 0.2;
+	position: fixed;
+	left: 0;
+	right: 0;
 }
